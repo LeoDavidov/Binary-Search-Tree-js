@@ -10,7 +10,7 @@ class Node {
 
 class BinarySearchTree {
     constructor() {
-        this.root = null
+        this.root = null;
     }
     // Methods
     /**
